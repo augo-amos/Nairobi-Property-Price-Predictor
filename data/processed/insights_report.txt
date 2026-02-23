@@ -1,0 +1,24 @@
+NAIROBI PROPERTY MARKET INSIGHTS
+==================================================
+
+Total Listings: 422
+Average Price: KES 43,157,300
+Median Price: KES 21,000,000
+Price Range: KES 500,000 - KES 400,000,000
+
+TOP 5 MOST EXPENSIVE LOCATIONS:
+  Lower Kabete: KES 95,000,000 (avg: KES 84,733,333, n=6)
+  Ridgeways: KES 95,000,000 (avg: KES 95,000,000, n=2)
+  Embakasi: KES 85,000,000 (avg: KES 85,000,000, n=3)
+  Nyari: KES 85,000,000 (avg: KES 65,255,556, n=9)
+  Karen: KES 80,000,000 (avg: KES 86,055,556, n=18)
+
+TOP 5 MOST AFFORDABLE LOCATIONS:
+  Kitengela: KES 9,000,000 (avg: KES 10,645,455, n=11)
+  CBD: KES 7,500,000 (avg: KES 7,500,000, n=3)
+  Kiserian: KES 7,500,000 (avg: KES 7,500,000, n=2)
+  Gigiri: KES 570,000 (avg: KES 570,000, n=4)
+  Roselyn: KES 500,000 (avg: KES 500,000, n=3)
+
+Average Price per sqm: KES nan
+Average Price per Bedroom: KES 10,248,386

@@ -1,0 +1,21 @@
+id,source,listing_type,title,price,location,bedrooms,bathrooms,size_sqm,property_type,url,scraped_at
+1,PigiaMe,Sale,Silver,160000000.0,Lavington,5.0,,,Unknown,https://www.pigiame.co.ke/listings/5-bed-townhouse-with-en-suite-at-lavington-6619343,2026-02-23T16:22:23.986304
+2,PigiaMe,Sale,Silver,20000000.0,Kitengela,4.0,,,Unknown,https://www.pigiame.co.ke/listings/4-bed-house-with-en-suite-in-kitengela-6616415,2026-02-23T16:22:24.102118
+3,PigiaMe,Sale,Silver,350000000.0,Lavington,9.0,,,Unknown,https://www.pigiame.co.ke/listings/9-bed-house-with-en-suite-at-kabarsiran-ave-6325938,2026-02-23T16:22:24.158368
+4,PigiaMe,Sale,Silver,75000000.0,Lavington,4.0,,,Unknown,https://www.pigiame.co.ke/listings/4-bed-townhouse-with-garden-in-lavington-6608472,2026-02-23T16:22:24.211948
+5,PigiaMe,Sale,Silver,73000000.0,Kileleshwa,4.0,,,Unknown,https://www.pigiame.co.ke/listings/4-bed-townhouse-with-en-suite-in-kileleshwa-6615725,2026-02-23T16:22:24.396977
+6,PigiaMe,Sale,Silver,70000000.0,Lavington,5.0,,,Unknown,https://www.pigiame.co.ke/listings/5-bed-townhouse-with-en-suite-in-lavington-6617357,2026-02-23T16:22:24.587240
+7,PigiaMe,Sale,Silver,159000000.0,Lavington,5.0,,,Unknown,https://www.pigiame.co.ke/listings/5-bed-townhouse-with-en-suite-in-lavington-6624423,2026-02-23T16:22:24.763853
+8,PigiaMe,Sale,Silver,28000000.0,Kiambu Road,4.0,,,Unknown,https://www.pigiame.co.ke/listings/4-bed-villa-with-en-suite-in-kiambu-road-5260201,2026-02-23T16:22:24.899259
+9,PigiaMe,Sale,Silver,9300000.0,Buruburu,3.0,,,Unknown,https://www.pigiame.co.ke/listings/3-bed-house-in-buruburu-6301931,2026-02-23T16:22:24.973324
+10,PigiaMe,Sale,Silver,24000000.0,Madaraka,4.0,,,Unknown,https://www.pigiame.co.ke/listings/4-bed-house-with-en-suite-in-madaraka-6454320,2026-02-23T16:22:25.041630
+11,PigiaMe,Sale,6 Bed Villa with En Suite in Lavington,110000000.0,Lavington,6.0,,,Villa,https://www.pigiame.co.ke/listings/6-bed-villa-with-en-suite-in-lavington-5557866,2026-02-23T16:22:39.848204
+12,PigiaMe,Sale,6 Bed Villa with En Suite in Lavington,121000000.0,Lavington,6.0,,,Villa,https://www.pigiame.co.ke/listings/6-bed-villa-with-en-suite-in-lavington-5665767,2026-02-23T16:22:39.902532
+13,PigiaMe,Sale,5 Bed Townhouse with En Suite at James Gichuru Road,150000000.0,Lavington,5.0,,,House,https://www.pigiame.co.ke/listings/5-bed-townhouse-with-en-suite-at-james-gichuru-road-6467700,2026-02-23T16:22:39.954827
+14,PigiaMe,Sale,5 Bed Villa with En Suite in Karen,99000000.0,Karen,5.0,,,Villa,https://www.pigiame.co.ke/listings/5-bed-villa-with-en-suite-in-karen-5745597,2026-02-23T16:22:40.027211
+15,PigiaMe,Sale,5 Bed House with En Suite at Mimosa Road,135000000.0,Runda,5.0,,,House,https://www.pigiame.co.ke/listings/5-bed-house-with-en-suite-at-mimosa-road-6141959,2026-02-23T16:22:40.171130
+16,PigiaMe,Sale,4 Bed House with En Suite in Runda,63000000.0,Runda,4.0,,,House,https://www.pigiame.co.ke/listings/4-bed-house-with-en-suite-in-runda-5401924,2026-02-23T16:22:40.370322
+17,PigiaMe,Sale,4 Bed Townhouse with En Suite in Kitisuru,45000000.0,Kitisuru,4.0,,,House,https://www.pigiame.co.ke/listings/4-bed-townhouse-with-en-suite-in-kitisuru-5535156,2026-02-23T16:22:40.454098
+18,PigiaMe,Sale,5 Bed Townhouse with En Suite at Garden Villa,110000000.0,Lavington,5.0,,,House,https://www.pigiame.co.ke/listings/5-bed-townhouse-with-en-suite-at-garden-villa-6336597,2026-02-23T16:22:40.563784
+19,PigiaMe,Sale,4 Bed House with En Suite at Ruaka Road,115000000.0,Runda,4.0,,,House,https://www.pigiame.co.ke/listings/4-bed-house-with-en-suite-at-ruaka-road-6157226,2026-02-23T16:22:40.638852
+20,PigiaMe,Sale,4 Bed Townhouse with En Suite in Lavington,65000000.0,Lavington,4.0,,,House,https://www.pigiame.co.ke/listings/4-bed-townhouse-with-en-suite-in-lavington-6538798,2026-02-23T16:22:40.722160

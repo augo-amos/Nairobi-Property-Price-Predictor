@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific - don't upload large files
+data/raw/*.csv
+data/processed/*.csv
+*.log
+*.cache
+
+# But keep small sample files for demo
+!data/processed/sample_*.csv
+
+# Model files - we'll handle these separately
+models/*.pkl
+models/*.joblib
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+*.env

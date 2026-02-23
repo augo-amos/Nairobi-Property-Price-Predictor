@@ -1,0 +1,7 @@
+,0
+model_name,All Available - Random Forest
+mae,32637859.249449477
+rmse,59619034.49333134
+r2,-0.1413750036721284
+n_samples,422
+features,"['bedrooms', 'location_encoded', 'property_type_encoded']"
